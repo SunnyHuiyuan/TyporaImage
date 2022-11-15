@@ -1,2 +1,2 @@
 # TyporaImage
-图片上传仓库
+PicGo图片上传仓库
